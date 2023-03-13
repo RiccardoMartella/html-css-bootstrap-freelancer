@@ -25,3 +25,7 @@ hr {
   border-radius: 30px;
   width: 70px;
 }
+
+.hr-black {
+  border: 3px solid black;
+}
