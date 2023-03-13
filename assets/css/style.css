@@ -7,16 +7,17 @@
     
 }
 
+.bg-grey-2 {
+  background-color:#212532!important; 
+  
+}
+
 .bg-green {
     background-color:#62be97;
 }
 
 ul {
     margin-bottom: 0 !important;
-}
-
-span {
-    color: white;
 }
 
 hr {
