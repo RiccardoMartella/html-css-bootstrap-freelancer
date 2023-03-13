@@ -3,10 +3,25 @@
 }
 
 .bg-grey {
-    background-color: rgb(99, 122, 142)!important; 
+    background-color:#333b52!important; 
     
+}
+
+.bg-green {
+    background-color:#62be97;
 }
 
 ul {
     margin-bottom: 0 !important;
+}
+
+span {
+    color: white;
+}
+
+hr {
+  border: 3px solid white;
+  opacity: 1;
+  border-radius: 30px;
+  width: 70px;
 }
