@@ -1,0 +1,12 @@
+*{
+    list-style-type: none;
+}
+
+.bg-grey {
+    background-color: rgb(99, 122, 142)!important; 
+    
+}
+
+ul {
+    margin-bottom: 0 !important;
+}
